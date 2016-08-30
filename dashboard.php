@@ -26,7 +26,7 @@
 	    	<b>What is NotifyMe?</b>
 	    </p>
 	    <p>
-	    	Get instant notifications about changes happened to your domain names*:
+	    	Get instant notifications about your domain names changes*:
 	    	<ul>
 	    		<li>Domain status changes</li>	    		
 	    		<li>Registrant WHOIS contact changes</li>
@@ -44,7 +44,7 @@
 	    		<li>Domain expiration</li>
 	    		<li>Domain hijacking</li>
 	    	</ul>
-			Prevent your domain names from expiration or being hijacked. If domain status or domain contacts have changed, it is possible that the domain name is being stolen at the moment. The sooner you know about it, the better chance you have to prevent the steal or to recover it (if domain was hijacked).**
+			Prevent your domain names from expiration or being hijacked. If domain status or domain contacts have been changed, it is possible that the domain name is being stolen at the moment. The sooner you know about it, the better chance you have to prevent the steal or to recover it (if domain was hijacked).**
 	    </p>
 	  <div class="mdl-card__supporting-text">
 	    <p>
