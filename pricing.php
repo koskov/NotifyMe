@@ -92,7 +92,7 @@
               <div class="mdl-card__supporting-text">
                 Description:
                 <ul>
-                  <li>Costs $6 per month</li>
+                  <li>Costs $1,000,000 per month</li>
                   <li>Up to 150 domains</li>
                   <li>History of changes</li>
                   <li>Email notifications</li>

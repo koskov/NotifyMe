@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td class="mdl-data-table__cell--non-numeric">TestDomain1.com</td>
+      <td class="mdl-data-table__cell--non-numeric">DomainTest.com</td>
       <td>No issues</td>
       <td>
         Yes
