@@ -16,7 +16,7 @@
       <a class="mdl-navigation__link" href="/domain_list.php">Domain List</a>
       <a class="mdl-navigation__link" href="/notifications.php"><span class="mdl-badge" data-badge="1">Notifications</span></a>
       <a class="mdl-navigation__link" href="/pricing.php">Pricing</a>
-      <a class="mdl-navigation__link" href="/settings.php">Settings</a>
+      <a class="mdl-navigation__link" href="/settings.php">Notification Settings</a>
     </nav>
   </div>
   <main class="mdl-layout__content">

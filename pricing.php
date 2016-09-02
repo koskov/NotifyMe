@@ -3,7 +3,26 @@
 ?>
 
 <div class="right">
-  <div class="container">
+<!-- Wide card with share menu button -->
+  <style>
+  .demo-card-wide.mdl-card {
+    width: 100%;
+  }
+  .demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 100px;
+    background: url('../img/panel1.png') center / cover;
+  }
+  .demo-card-wide > .mdl-card__menu {
+    color: #fff;
+  }
+  </style>
+
+  <div class="demo-card-wide mdl-card ">
+    <div class="mdl-card__title">
+      <h2 class="mdl-card__title-text">Pricing</h2>
+    </div>
+      <div class="container">
         <div class="pricing">
             <!-- Square card -->
             <style>
@@ -108,4 +127,6 @@
         </div>
         
   </div>
+  </div> 
+  
 </div>            
